@@ -27,7 +27,7 @@ After killing clients at 30s (200MB of RSS not cleanup here).
 ### Usage
 
 #### Requirements
-- Node 4
+- Node 12
 - run `npm install`
 
 #### HTTP
